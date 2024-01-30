@@ -1,7 +1,7 @@
 # gestion-laboratorio 
-* gestion-laboratorio [Repositorio Principal]
-* documentacion-gestion-agenda [Repositorio documentación]
-* documentacion-hoja-vida [Repositorio documentación]
+* Gestión de Laboratorio [Repositorio Principal](https://github.com/code-corhuila/gestion-laboratorio.git)
+* gestion-agenda [Repositorio documentación]
+* gestion-hoja-vida [Repositorio documentación]
 
 # Despligue de frontend
 * Frontend [Repositorio frontend]
