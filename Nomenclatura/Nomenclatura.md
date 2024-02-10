@@ -1,4 +1,4 @@
-# Política de Nomenclatura beMaster
+# Política de Nomenclatura
 
 ## Política de Nomenclatura para Bases de Datos
 
@@ -36,11 +36,31 @@
 - Ser descriptivo y utilizar nombres que reflejen claramente la función y su propósito.
 - Organizar los procedimientos almacenados en un esquema coherente según su funcionalidad.
 
+### Estilo de Código
+- Indentación y Espaciado.
+- Utilizar sangrías de 4 espacios.
+- Añade líneas en blanco para separar bloques lógicos de código.
+
+### Longitud de Línea
+- Limita las líneas de código a 80-120 caracteres para mejorar la legibilidad.
+
+### Comentarios
+- Agrega comentarios cuando sea necesario para explicar decisiones o funcionalidades complejas.
+- Mantén los comentarios actualizados.
+
+### Manejo de Excepciones
+- Utilizar bloques try-catch para manejar excepciones de manera adecuada.
+- Loguea o notifica errores en lugar de ignorarlos.
+
 ## Backend
+
+### Paquetes (Packages)
+- Nombres de paquetes en minúsculas y utiliza una estructura jerárquica si es necesario.
+- ejemplo: `com.tuempresa.proyecto`
 
 ### Nombres de Clases
 - Utilizar el formato PascalCase.
-- Ser descriptivo y evitar abreviaturas.
+- Ser descriptivo y evitar abreviaturas, Optar por nombres completos y descriptivos.
 - Ejemplo: `UsuarioService`, `ProductoController`
 
 ### Nombres de Métodos
@@ -62,6 +82,10 @@
 - Utilizar el formato camelCase.
 - Ser descriptivo y reflejar claramente el propósito y contenido.
 - Ejemplo: `nombreUsuario`, `cantidadProductos`
+
+### Constantes
+- Utiliza mayúsculas y guiones bajos para constantes.
+- ejemplo: `MAXIMO_INTENTOS`, `VALOR_PI`.
 
 ## Frontend
 
