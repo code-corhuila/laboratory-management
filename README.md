@@ -14,7 +14,6 @@ El proyecto implica el desarrollo de un prototipo funcional para la gestión de 
 ## Enlace de insterés
 
 - [Drive Avance del proyecto](https://drive.google.com/drive/folders/15ec9aYpzN9O5cXdfzgiDKb8CSe-o0Jtr?usp=drive_link)
-- [Arquitectura]()
 - [Mockups](https://www.figma.com/file/6OVcxMlynzfsh7BmifxSbM/Proyecto-Labortorios?type=design&node-id=0-1&mode=design)
 
 ## Repositorio frontend
