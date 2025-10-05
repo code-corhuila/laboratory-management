@@ -2,7 +2,7 @@
 
 ## Stack Tecnológico
 
-1. **PostgreSQL:**
+1. **MySQL:**
    - Fiabilidad y robustez.
    - Escalabilidad.
    - Características avanzadas.
@@ -12,7 +12,7 @@
    - Seguridad.
    - Soporte de la comunidad.
 
-3. **React:**
+3. **Angular:**
    - Experiencia de usuario dinámica.
    - Rendimiento.
    - Ecosistema vibrante.
